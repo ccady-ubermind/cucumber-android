@@ -4,7 +4,7 @@ This is a work in progress. It works well enough but isn't considered stable.
 
 ## License
 
-This code **will be open-sourced** as soon as possible under [The MIT License](http://www.opensource.org/licenses/mit-license.php). The goal is get it included upstream into the [cucumber-jvm](https://github.com/cucumber/cucumber-jvm) project.
+This code is open-sourced under [The MIT License](http://www.opensource.org/licenses/mit-license.php). The goal is get it included upstream into the [cucumber-jvm](https://github.com/cucumber/cucumber-jvm) project.
 
 ## Usage
 
